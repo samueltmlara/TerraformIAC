@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Projeto Terraform - Infraestrutura AWS</title>
+</head>
 <body>
     <h1>Projeto Terraform - Infraestrutura AWS</h1>
     <p>Este projeto implementa uma infraestrutura na AWS utilizando Terraform como IaC (Infrastructure as Code).</p>
