@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Projeto Terraform - Infraestrutura AWS</title>
-</head>
-<body>
     <h1>Projeto Terraform - Infraestrutura AWS</h1>
     <p>Este projeto implementa uma infraestrutura na AWS utilizando Terraform como IaC (Infrastructure as Code).</p>
     
@@ -35,5 +29,3 @@
 
     <h2>Licença</h2>
     <p>Este projeto é open-source e pode ser utilizado livremente.</p>
-</body>
-</html>
